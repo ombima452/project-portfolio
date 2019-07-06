@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+#column2{
+    padding-left: 80px;
+}
