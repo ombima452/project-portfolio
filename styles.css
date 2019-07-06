@@ -3,7 +3,7 @@ nav>ul{
     margin-right:auto;
     margin-left:auto;
   }
-  ul>li{
+ nav>ul>li{
     display:inline-block;
 }
 ul>li>a{
@@ -14,29 +14,39 @@ ul>li>a{
     padding:5px;
     font-size:20px;
 }
+ul>li>a:hover{
+    color: blue;
+    background-color: rgb(255,255,255)
+}
 nav{
-    position:sticky;
+    position:fixed;
     top:0;
     max-width:50%;
-    margin-left: 0;
-}
-/* h1{ */
-    /* text-align: right; */
-    /* font-family: 'Tangerine', open sans; */
-    /* font-size: 100px; */
-    /* text-align: right; */
-    
 }
 #home{
       display: flex;
       flex-direction: row;
-      width: 100%;
-      height: 100%;
+      height:600px;
+      
+}
+h1{  
+    width: 60%;
+    font-family: 'Tangerine', open sans; 
+    font-size: 140px;
+    padding-top:10px;
+    background-color: aquamarine;
+    color:black;
+    font-weight: normal;
+    
 }
 body{
     background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiWLl4hhzL7owVdG2N4MTT_vmyM__mK0r7fHiJfrTdnq4oOuv");
     background-repeat: no-repeat;
     background-size: cover;
     color:aqua;
-    font-size: 15px; 
+    
+}
+img{
+    margin-left: 100px;
+    padding-top: 90px;
 }
