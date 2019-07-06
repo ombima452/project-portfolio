@@ -46,7 +46,15 @@ body{
     color:aqua;
     
 }
-img{
-    /* margin-left: 100px; */
+#image{
     padding-top: 94px;
+}
+#image2{
+    display:flex;
+    flex-direction: row;
+    padding-right: 20px;
+}
+span{
+    font-style: italic;
+    font-weight: bold;
 }
