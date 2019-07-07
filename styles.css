@@ -32,7 +32,7 @@ nav{
 }
 h1{  
     width: 60%;
-    font-family: 'Tangerine', open sans; 
+    font-family: 'Tangerine', open sans ;
     font-size: 140px;
     padding-top:10px;
     background-color: aquamarine;
@@ -51,7 +51,7 @@ body{
     padding-top: 94px;
 }
 #image2{
-    display:flex;
+    /* display:flex; */
     flex-direction: row;
     padding-right: 20px;
 }
@@ -61,5 +61,5 @@ span{
 }
 strong{
     font-size:50px;
-    font-family: 'Tangerine', open sans 
+    font-family: 'Tangerine', open sans ;
 }
