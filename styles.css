@@ -62,3 +62,7 @@ strong{
     font-size:50px;
     font-family: 'Tangerine', open sans ;
 }
+    h1 {
+        text-shadow: 2px 2px #6ea7f1;
+      }
+      
