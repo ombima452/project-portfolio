@@ -1,17 +1,19 @@
  {PORTFOLIO}
-#### {This is a personal porfolio}, {7 july 2019}
-#### By **{List of contributors}**
-## Description
-{This portfolio contains information about me what i do my interests and much more }
-## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-## Technologies Used
+christine Ombima, {7 july 201
+ Description
+This portfolio contains information about me what i do my interests and much more 
+Setup/Installation Requirements
+Open Terminal {Ctrl+Alt+T}
+
+git clone https://github.com/Owiti-Charles/Portfolio.git
+
+cd Portfolio
+
+code . or atom . based on the text editor you have.
+
+Technologies Used
 The languages used include HTML and CSS.}
-## Support and contact details
-{Email address:christineombima452@gmail.com .My twitter handle :@ombima452}
-### License
-*{MIT License}
+Support and contact details
+Email address:christineombima452@gmail.com .My twitter handle :@ombima452}
+License
+ MIT License :Copyright (c) 2019 Owiti Charles
